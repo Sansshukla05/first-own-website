@@ -1,2 +1,2 @@
 # first-own-website
-okay so ive created my very first website. Many more to come! I've created this project by learning HTML,CSS and Java Script.
+okay so i have created my very first website. Many more to come! I have created this project by learning HTML and CSS.
